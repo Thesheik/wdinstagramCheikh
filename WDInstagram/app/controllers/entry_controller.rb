@@ -14,7 +14,6 @@ class EntryController < ApplicationController
   #   if @entry.save
   #     redirect_to ("/entries/#{@entry.id}")
   #   else
-  #     redirect_to "/entries/new"
   #   end
   # end
 
