@@ -11,9 +11,6 @@ class EntryController < ApplicationController
   # post "/entries" do
   #   @entry = Entry.new( params[:entry] )
   #   @entry.update( date_taken: Time.now.strftime("%B %d, %Y") )
-  #   if @entry.save
-  #     redirect_to ("/entries/#{@entry.id}")
-  #   else
   #   end
   # end
 
